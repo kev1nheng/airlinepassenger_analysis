@@ -1,2 +1,4 @@
 # AIRLINEPASSENGER_ANALYSIS
- Time series analysis using Python and R on airplane_passenger.csv
+## Topic
+Exploring time series analysis techniques on airplane_passenger.csv
+using R and Python.
